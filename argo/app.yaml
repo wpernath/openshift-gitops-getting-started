@@ -12,8 +12,8 @@ spec:
     directory:
       recurse: true
     path: app
-    repoURL: https://github.com/siamaksade/openshift-gitops-getting-started.git
-    targetRevision: main
+    repoURL: https://github.com/wpernath/openshift-gitops-getting-started.git
+    targetRevision: 1.1
   syncPolicy:
     automated:
       prune: true
